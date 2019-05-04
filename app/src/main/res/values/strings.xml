@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string name="ChooseCity">Choose City!</string>
+    <string name="cities">No city chosen</string>
+    <string-array name="city_names">
+        <item>Bhubhaneshwar</item>
+        <item>Delhi</item>
+        <item>Hyderabad</item>
+        <item>Jaipur</item>
+        <item>Kolkata</item>
+        <item>Manipur</item>
+    </string-array>
+
+</resources>
+
+
